@@ -26,5 +26,6 @@ A Node.js + Express REST API for managing notes with user auth and OpenAI-powere
 
 >  Note1: GraphQL is implemented in the GET /notes endpoint as specified in the assessment. All other functionalities are covered via REST API.
 >  GraphQL Endpoint: http://localhost:3000/graphql
+
 >  Note: This project is built using JavaScript (not TypeScript) as per the assessment requirements.
 
